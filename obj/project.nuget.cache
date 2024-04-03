@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "weWu15kGa/ujaawbp/KqN6k6ECr1/CO9YcjU+19Lfa1lbkzMv9lur6QJObp0F/8k5W0ywqZ9GMBk6vasdPoQGw==",
+  "success": true,
+  "projectFilePath": "I:\\Sem3\\Programming Paradigms\\Lab2\\lavanya_lab2\\lavanya_lab2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lvsin\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
